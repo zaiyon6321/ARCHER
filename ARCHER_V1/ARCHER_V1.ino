@@ -1,6 +1,6 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
-//I'm changing someting here
+//I'm changing someting here, next version 3
 
 //String serial_number = "kdks;d";
 char deviceData[10] = {0}; //default device Data
